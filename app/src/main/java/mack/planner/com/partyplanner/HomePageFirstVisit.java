@@ -10,4 +10,6 @@ public class HomePageFirstVisit extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home_page_first_visit);
     }
+
+    // We will start from here
 }
